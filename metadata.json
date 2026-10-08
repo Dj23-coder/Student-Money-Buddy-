@@ -1,0 +1,6 @@
+{
+  "name": "Student Money Buddy",
+  "description": "Smart expense categorizer and saving tips for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
